@@ -1,0 +1,5 @@
+name: IpCollector
+version: '${project.version}'
+main: dev.siea.ipcollector.IpCollector
+author: Siea
+description: This Plugin automatically collects IP's of all Players that join the server
