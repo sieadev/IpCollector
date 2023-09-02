@@ -1,2 +1,4 @@
 # IpCollector
-This Plugin automatically collects IP's of all Players that join the Server
+This Minecraft Spigot Plugin automatically collects the IPs of all Players that join the Server and saves them in a config. 
+
+
