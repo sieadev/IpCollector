@@ -7,7 +7,7 @@ IpCollector is a Minecraft Spigot plugin that automatically collects and safes I
 ## Features
 
 #### 1. Low Usage:
-   - This Plugin was optimised to use as little resources as possible
+   This Plugin was optimised to use as little resources as possible
 #### 2. Intelligent Collection:
     - Safe date and time
     - Sort by UUID (Unique User Identification)
