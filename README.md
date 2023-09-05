@@ -25,8 +25,7 @@ IpCollector is a Minecraft Spigot plugin that automatically collects and safes I
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
+[![MIT License](https://img.shields.io/badge/License-Apache-green.svg)](https://choosealicense.com/licenses/apache/)
 
 ## Contact
 - Discord [@siea](dsc.gg/siea)
