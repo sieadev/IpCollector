@@ -1,3 +1,5 @@
+## This Plugin no longer receives any updates, future Minecraft versions may not support it.
+
 # IpCollector
 
 IpCollector is a Minecraft Spigot plugin that automatically collects and safes Ip addresses of all Players
